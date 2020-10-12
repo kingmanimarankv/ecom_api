@@ -1,0 +1,14 @@
+{
+  "results": [
+    {
+      "product_id": "1",
+      "product_name": "Lorem Ipsum",
+      "product_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg"
+    },
+    {
+      "product_id": "1",
+      "product_name": "Lorem Ipsum",
+      "product_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg"
+    }
+  ]
+}
