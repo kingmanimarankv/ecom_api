@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "region_id": "1",
+      "region_name": "Region Name",
+      "region_subregions": [
+        {
+          "region_subregion": "SubRegion",
+          "region_pincode": " Pin Code"
+        },
+        {
+          "region_subregion": "SubRegion",
+          "region_pincode": " Pin Code"
+        },
+        {
+          "region_subregion": "SubRegion",
+          "region_pincode": " Pin Code"
+        },
+        {
+          "region_subregion": "SubRegion",
+          "region_pincode": " Pin Code"
+        }
+      ]
+    },
+    {
+      "region_id": "2",
+      "region_name": "Region Name",
+      "region_subregions": [
+        {
+          "region_subregion": "SubRegion",
+          "region_pincode": " Pin Code"
+        },
+        {
+          "region_subregion": "SubRegion",
+          "region_pincode": " Pin Code"
+        },
+        {
+          "region_subregion": "SubRegion",
+          "region_pincode": " Pin Code"
+        },
+        {
+          "region_subregion": "SubRegion",
+          "region_pincode": " Pin Code"
+        }
+      ]
+    }
+  ]
+}
