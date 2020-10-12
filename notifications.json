@@ -1,0 +1,18 @@
+{
+  "results": [
+    {
+      "notification_id": "1",
+      "notification_type": "User",
+      "notification_title": "Order Placed",
+      "notification_subtitle": "Your order placed successfully",
+      "notification_message": "ProductName - 1, ProductName -2"
+    },
+    {
+      "notification_id": "2",
+      "notification_type": "All",
+      "notification_title": "New Product !",
+      "notification_subtitle": "Try our new Product",
+      "notification_message": "ProductName - 1"
+    }
+  ]
+}
