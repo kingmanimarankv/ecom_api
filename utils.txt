@@ -1,35 +1,45 @@
 Banner Ads (GET)
 <>/api/banners/
+banner_ads.json
 
 Regions (GET)
 <>/api/regions/
+regions.json
 
 Categories (GET)
 <>/api/categories/
+category.json
 
 Products (GET)
 <>/api/products/<category_slug_name>/
 <>/api/products/<category_slug_name>/<subcategory_slug_name>/
 <>/api/products/product?=<search_term>/
+products.json
 
 Notifications (GET)
 <>/api/notifications/<user_id>/
+notifications.json
 
 
 Get 24 Hour Product (GET)
 <>/api/24hourproduct/<user_id>/
+24HourProducts.json
 
 Orders (POST)
 <>/api/place_order/
+order_post.json
 
 Orders (GET)
 <>/api/get_order/user?=<user_id>/
+order_response.json
 
 Address (POST)
 <>/api/post_address/
+address_post.json
 
 Address (GET)
 <>/api/get_address/user?=<user_id>/
+address_response.json
 
 
 
