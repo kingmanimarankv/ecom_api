@@ -1,6 +1,12 @@
-Banner Ads
+Banner Ads (GET)
 <>/api/banners/
 
-Regions
+Regions (GET)
 <>/api/regions/
+
+Categories (GET)
+<>/api/categories/
+
+
+
 
