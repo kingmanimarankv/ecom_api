@@ -1,0 +1,22 @@
+{
+  "order_date": "2020-10-12",
+  "order_total": "150.00",
+  "user_id": "1",
+  "order_products": [
+    {
+      "product_id": "1",
+      "product_quantity": "10",
+      "product_linetotal": "50"
+    },
+    {
+      "product_id": "1",
+      "product_quantity": "10",
+      "product_linetotal": "50"
+    },
+    {
+      "product_id": "1",
+      "product_quantity": "10",
+      "product_linetotal": "50"
+    }
+  ]
+}
