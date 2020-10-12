@@ -1,0 +1,10 @@
+{
+  "user_id": "1",
+  "user_addressline1": "Address Line 1",
+  "user_addressline2": "Address Line 2",
+  "user_landmark": "LandMark",
+  "user_pincode":"600000",
+  "user_latitude":"63.00",
+  "user_longitude" : "100.00"
+  
+}
