@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "category_id": "1",
+      "category_name": "Milk Products",
+      "category_slug": "milk_products",
+      "category_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg"
+    },
+    {
+      "category_id": "2",
+      "category_name": "Curd Products",
+      "category_slug": "curd_products",
+      "category_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg"
+    },
+    {
+      "category_id": "3",
+      "category_name": "Ghee Products",
+      "category_slug": "ghee_products",
+      "category_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg"
+    },
+    {
+      "category_id": "4",
+      "category_name": "Panneer Products",
+      "category_slug": "panneer_products",
+      "category_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg"
+    }
+  ]
+}
