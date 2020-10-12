@@ -10,10 +10,26 @@ Categories (GET)
 Products (GET)
 <>/api/products/<category_slug_name>/
 <>/api/products/<category_slug_name>/<subcategory_slug_name>/
-<>/api/products/product?=<search_term>
+<>/api/products/product?=<search_term>/
 
 Notifications (GET)
 <>/api/notifications/<user_id>/
+
+
+Get 24 Hour Product (GET)
+<>/api/24hourproduct/<user_id>/
+
+Orders (POST)
+<>/api/place_order/
+
+Orders (GET)
+<>/api/get_order/user?=<user_id>/
+
+Address (POST)
+<>/api/post_address/
+
+Address (GET)
+<>/api/get_address/user?=<user_id>/
 
 
 
