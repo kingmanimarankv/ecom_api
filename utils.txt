@@ -1,0 +1,6 @@
+Banner Ads
+<>/api/banners/
+
+Regions
+<>/api/regions/
+
