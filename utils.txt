@@ -7,6 +7,16 @@ Regions (GET)
 Categories (GET)
 <>/api/categories/
 
+Products (GET)
+<>/api/products/<category_slug_name>/
+<>/api/products/<category_slug_name>/<subcategory_slug_name>/
+<>/api/products/product?=<search_term>
+
+Notifications (GET)
+<>/api/notifications/<user_id>/
+
+
+
 
 
 
