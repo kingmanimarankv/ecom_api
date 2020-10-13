@@ -2,37 +2,37 @@
   "results": [
     {
       "banner_id": "1",
-      "banner_ad_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
+      "banner_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
       "banner_title": "Title 1",
       "banner_subtitle": "Subtitle"
     },
     {
       "banner_id": "2",
-      "banner_ad_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
+      "banner_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
       "banner_title": "Title 2",
       "banner_subtitle": "Subtitle"
     },
     {
       "banner_id": "3",
-      "banner_ad_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
+      "banner_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
       "banner_title": "Title 3",
       "banner_subtitle": "Subtitle"
     },
     {
       "banner_id": "4",
-      "banner_ad_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
+      "banner_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
       "banner_title": "Title 4",
       "banner_subtitle": "Subtitle"
     },
     {
       "banner_id": "5",
-      "banner_ad_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
+      "banner_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
       "banner_title": "Title 5",
       "banner_subtitle": "Subtitle"
     },
     {
       "banner_id": "6",
-      "banner_ad_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
+      "banner_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
       "banner_title": "Title 6",
       "banner_subtitle": "Subtitle"
     }
