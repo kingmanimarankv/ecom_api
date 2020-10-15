@@ -5,60 +5,18 @@
       "category_name": "Category Name",
       "category_slug": "category_name",
       "category_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
-      "category_subcategories": [
-        {
-          "subcategory_id": "1",
-          "subcategory_name": "Sub Category Name",
-          "subcategory_slug": "sub_category_name",
-          "subcategory_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg"
-        },
-        {
-          "subcategory_id": "2",
-          "subcategory_name": "Sub Category Name",
-          "subcategory_slug": "sub_category_name",
-          "subcategory_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg"
-        }
-      ]
     },
     {
       "category_id": "2",
       "category_name": "Category Name",
       "category_slug": "category_name",
       "category_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
-      "category_subcategories": [
-        {
-          "subcategory_id": "1",
-          "subcategory_name": "Sub Category Name",
-          "subcategory_slug": "sub_category_name",
-          "subcategory_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg"
-        },
-        {
-          "subcategory_id": "2",
-          "subcategory_name": "Sub Category Name",
-          "subcategory_slug": "sub_category_name",
-          "subcategory_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg"
-        }
-      ]
     },
     {
       "category_id": "3",
       "category_name": "Category Name",
       "category_slug": "category_name",
       "category_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg",
-      "category_subcategories": [
-        {
-          "subcategory_id": "1",
-          "subcategory_name": "Sub Category Name",
-          "subcategory_slug": "sub_category_name",
-          "subcategory_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg"
-        },
-        {
-          "subcategory_id": "2",
-          "subcategory_name": "Sub Category Name",
-          "subcategory_slug": "sub_category_name",
-          "subcategory_image": "https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1-600x400.jpg"
-        }
-      ]
     }
   ]
 }
