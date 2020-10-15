@@ -7,8 +7,13 @@ Regions (GET)
 regions.json
 
 Categories (GET)
-<>/api/categories/
+<>/api/category/
 category.json
+
+SubCategories (GET)
+<>/api/category/<category_slug_name>
+subcategory.json
+
 
 Products (GET)
 <>/api/products/<category_slug_name>/
